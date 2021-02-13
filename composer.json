@@ -1,0 +1,16 @@
+{
+    "name": "usuariofeliz/connectdb",
+    "description": "Prepara o ambiente para trabalhar com banco de dado relacional de linguagem SQL",
+    "type": "library",
+    "require": {
+        "vlucas/phpdotenv": "5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gleisson Neves",
+            "email": "53718407+gdk46@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
